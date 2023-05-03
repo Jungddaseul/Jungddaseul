@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## 🌱 코딩알고리즘 문제풀이
-     - 해당 저장소로 [이동하기](https://github.com/Jungddaseul/codingtest/)
+- 해당 저장소로 [이동하기](https://github.com/Jungddaseul/codingtest/)
      - 해당 저장소로 [이동하기](https://github.com/Jungddaseul/CodeUp-Algorithm/)
      
 ## 🌱 자격증
