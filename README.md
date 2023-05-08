@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ### 1. chatGPT 활용하기
 - chatGPT를 활용한 미니 프로젝트 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/chatGPT_Mini_Project/)
 
+### 2. pandas, numpy, 시각화, 머신러닝, 딥러닝 공부
+- 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI-study/)
+
 ## ✏️ 자격증준비
 - 빅데이터분석기사 저장소로 [이동하기](https://github.com/Jungddaseul/Big-Data-Certification-study-/)
 
