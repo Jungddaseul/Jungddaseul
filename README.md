@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 ## 📂 프로젝트
 ### 1. 도로균열검출
-- 도로균열검출 프로젝트 해당 저장소로 [이동하기](https://github.com/Jungddaseul/Project_road_/)
+- 도로균열검출 프로젝트 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/Project_road_/)
 ### 2. 화재검출 및 이상치 판단
-- 화재검출 및 이상치 판단 해당 저장소로 [이동하기](https://github.com/Jungddaseul/Project_fire_detect/)
+- 화재검출 및 이상치 판단 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/Project_fire_detect/)
+
+## 🧑🏼‍💻 AI-study
+### 1. chatGPT 활용하기
+- chatGPT를 활용한 미니 프로젝트 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/chatGPT_Mini_Project/)
 
 ## ✏️ 자격증준비
 - 빅데이터분석기사 저장소로 [이동하기](https://github.com/Jungddaseul/Big-Data-Certification-study-/)
