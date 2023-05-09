@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 화재검출 및 이상치 판단 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/Project_fire_detect/)
 
 ## 🧑🏼‍💻 AI-study
-### 1. chatGPT 활용하기
-- chatGPT를 활용한 미니 프로젝트 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/chatGPT_Mini_Project/)
+### 1. chatGPT 활용 및 데이터 분석
+- chatGPT를 활용한 미니 프로젝트(데이터분석) 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/chatGPT_Mini_Project/)
 
 ### 2. pandas, numpy, 시각화, 머신러닝, 딥러닝 공부
 - 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI_study/)
