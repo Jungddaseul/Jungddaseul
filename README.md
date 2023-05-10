@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ## ✏️ 자격증준비
 - 빅데이터분석기사 저장소로 👉 [이동하기](https://github.com/Jungddaseul/Big-Data-Certification-study-/)
+- SQLD(혼공 SQL) 정리 페이지로 👉 [이동하기](https://wisdom-coding38.tistory.com/category/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%5BSQL%5D%20%ED%98%BC%EC%9E%90%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20SQL)
 
 ## 💻 코딩 문제풀이
 - 백준 문제풀이 저장소로 👉 [이동하기](https://github.com/Jungddaseul/codingtest/tree/main/%EB%B0%B1%EC%A4%80/Bronze)
