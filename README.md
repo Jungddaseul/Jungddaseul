@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - 백준 문제풀이 저장소로 👉 [이동하기](https://github.com/Jungddaseul/codingtest/tree/main/%EB%B0%B1%EC%A4%80/Bronze)
 - 프로그래머스 문제풀이 저장소로 👉 [이동하기](https://github.com/Jungddaseul/codingtest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
 - 코드업 문제풀이 저장소로 👉 [이동하기](https://github.com/Jungddaseul/CodeUp-Algorithm/)
-- 풀이내용 확인 👉 [이동하기](https://wisdom-coding38.tistory.com/)
+<!-- - 풀이내용 확인 👉 [이동하기](https://wisdom-coding38.tistory.com/)-->
