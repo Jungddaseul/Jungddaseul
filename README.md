@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 2. pandas, numpy, 시각화 
 - 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI_study/)
-- 
+
 ### 3. 머신러닝, 딥러닝
 - 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI_study/)
 
