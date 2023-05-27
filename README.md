@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 기본 문법, 활용 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI_study/)
 
 ### 3. 머신러닝, 딥러닝
-- 머신러닝 알고리즘 활용 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI_study/04_ML)
+- 머신러닝 알고리즘 활용 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI_study/04_ML/)
 - 딥러닝 알고리즘 활용 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI_study)
 
 ## ✏️ 자격증준비
