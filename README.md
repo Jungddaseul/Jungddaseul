@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ### 3. 머신러닝, 딥러닝
 - 알고리즘 활용 해당 저장소로 👉 [이동하기](https://github.com/Jungddaseul/AI_study)
+- PyTorch을 통한 딥러닝 입문 👉 [이동하기](https://github.com/Jungddaseul/AI_study)
 
 ## ✏️ 자격증준비
 - 빅데이터분석기사 저장소로 👉 [이동하기](https://github.com/Jungddaseul/Big-Data-Certification-study-/)
